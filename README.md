@@ -1,0 +1,1 @@
+Niniejsze repozytorium dotyczy dwóch projektów w ramach przedmiotu ASIP na Politechnice Wrocławskiej: wykorzystanie Q-learningu dla problemu Taxi-v3 z biblioteki Gymnasium oraz sieci CNN dla bazy cifar-10 i cifar-100 dostępnych na platformie Kaggle.
